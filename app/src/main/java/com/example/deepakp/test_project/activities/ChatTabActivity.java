@@ -13,6 +13,7 @@ public class ChatTabActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //paythak
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chat_tab);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
